@@ -51,6 +51,10 @@
 
 ## コーディング規約
 
+### 参考
+* Google JavaScript スタイルガイド  
+https://w.atwiki.jp/aias-jsstyleguide2/
+
 ### なぜ必要か
 * チーム全員が読みやすいコードにするため
 * コードレビューの指針にするため
