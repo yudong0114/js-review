@@ -41,3 +41,10 @@
  * replace()：置換
  * match()：抽出(returnは配列)
  * test()：Boolでリターン
+
+### 文字列操作メソッド
+* `string.split('分岐になる文字')`：特定文字列で分解
+* `string.slice(n, n)`：文字列の切り出し
+* `string.length`：文字列の長さ
+* `string.toLocaleString()`：数値を文字列に変換(3桁区切りにできる)
+* `string.replace(target, aftertext)`：パターンにマッチした文字列を置換する
